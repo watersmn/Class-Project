@@ -1,2 +1,6 @@
-# datascience-project1
-# Repository will contain, project proposal, project analysis approach, project code, final project presentation.
+# Capstone Project
+# Repository will contain:
+  # Project proposal 
+  # Project analysis approach 
+  # Project code 
+  # Final project presentation.
